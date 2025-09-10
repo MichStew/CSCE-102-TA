@@ -1,0 +1,24 @@
+/* external css file for problem b */
+body {
+  background-image: url('horse.JPEG');
+  background-repeat: repeat-x; 
+  background-size: 400px 200px;
+}
+p {
+  font-size: 14px; 
+  color: black; 
+}
+#first {
+  color: blue; 
+  font-weight: bold; 
+}
+.dirt { 
+  font-size: 18pt; 
+  text-align: center; 
+  transform: rotate(30); 
+}
+.dirt:hover {
+  font-size: 40pt; 
+  background-color: yellow;  
+}
+
